@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>TROLLED!!!!!</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: black;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+<iframe
+  src="https://www.youtube.com/embed/BpmWTyKt3hk?autoplay=1&controls=0&rel=0"
+  allow="autoplay; fullscreen"
+  allowfullscreen>
+</iframe>
+
+</body>
+</html>
